@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Alvin-Htet.github.io/sitemap.xml
+Sitemap: https://alvin-htet.github.io/sitemap.xml
